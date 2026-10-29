@@ -1,0 +1,52 @@
+
+{
+  "project": "RooTsFact",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "duration_seconds": 30
+  },
+  "scenes": [
+    {
+      "id": 1,
+      "start": 0,
+      "end": 5,
+      "visual": "لقطة سينمائية واسعة للخزنة في البتراء، الأردن",
+      "search_terms": "Petra Treasury Jordan cinematic vertical",
+      "motion": "slow_push_in"
+    },
+    {
+      "id": 2,
+      "start": 5,
+      "end": 10,
+      "visual": "تفاصيل الحجر الرملي والواجهات المنحوتة",
+      "search_terms": "Petra sandstone carved rock details",
+      "motion": "slow_pan"
+    },
+    {
+      "id": 3,
+      "start": 10,
+      "end": 15,
+      "visual": "لقطات توضح النحت الصخري في العمارة النبطية",
+      "search_terms": "Nabataean architecture Petra rock carving",
+      "motion": "slow_push_in"
+    },
+    {
+      "id": 4,
+      "start": 15,
+      "end": 22,
+      "visual": "قنوات المياه والصهاريج القديمة في البتراء",
+      "search_terms": "Petra ancient Nabataean water channels cisterns",
+      "motion": "slow_pan"
+    },
+    {
+      "id": 5,
+      "start": 22,
+      "end": 30,
+      "visual": "مشهد بانورامي للبتراء بين الجبال الصخرية",
+      "search_terms": "Petra Jordan ancient city panoramic landscape",
+      "motion": "slow_pull_out"
+    }
+  ]
+}
